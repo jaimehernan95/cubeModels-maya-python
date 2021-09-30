@@ -6,5 +6,5 @@
 ## archon to legen level rigger hahaha
 
 <p align="center">
-<img width="650" alt="data migration" src="https://github.com/jaimehernan95/cubeModels-maya-python/blob/master/image/AvatarMaker.png">
+<img width="650" alt="new" src="https://github.com/jaimehernan95/cubeModels-maya-python/blob/master/image/AvatarMaker.png">
 </p>
